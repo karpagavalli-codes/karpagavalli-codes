@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**karpagavalli-codes/karpagavalli-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Karpagavalli 👋  
 
-Here are some ideas to get you started:
+🎓 B.Tech AI & Data Science Student  
+💻 Currently learning Python & DSA  
+🚀 Building projects consistently  
+🎯 Goal: build reallife projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 My Projects
+- 🧠 Smart Calculator  
+- 📊 Student Marks Analyzer  
+- 🤖 Spam Detector (coming soon)
+
+---
+
+## 📈 GitHub Goals
+- Daily contributions 🟩  
+- 10+ projects  
+- Strong DSA skills  
+
+---
+
+## 🌱 Currently Learning
+- Python  
+- Data Structures  
+- Machine Learning  
