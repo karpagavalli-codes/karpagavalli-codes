@@ -4,23 +4,12 @@
 🎓 B.Tech AI & Data Science Student  
 💻 Currently learning Python & DSA  
 🚀 Building projects consistently  
-🎯 Goal: build reallife projects
-
----
-
-## 🔥 My Projects
-- 🧠 Smart Calculator  
-- 📊 Student Marks Analyzer  
-- 🤖 Spam Detector (coming soon)
-
----
+🎯 Goal: build real life projects
 
 ## 📈 GitHub Goals
 - Daily contributions 🟩  
 - 10+ projects  
 - Strong DSA skills  
-
----
 
 ## 🌱 Currently Learning
 - Python  
